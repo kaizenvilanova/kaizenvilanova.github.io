@@ -1,0 +1,12 @@
+.navbar_bg{
+
+	background-color: #4286f4;
+
+}
+
+.aligned{
+
+	right: 90%_;
+
+
+}
